@@ -10,3 +10,4 @@ Flutter project for Dermose.
 ## how the project look like
 
 ![Alt text](product_screenshot.png)
+![Alt text](screenshot2.png)
