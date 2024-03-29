@@ -1,13 +1,13 @@
 # calendar
 
-Flutter project for Dermose.
+Flutter Project Practice
 
 ## Key features
 
-- selectable date
-- clickable Appointment Card
+- Selectable Date
+- Clickable Appointment Card
 
-## how the project look like
+## how the project looks like
 
 ![Alt text](product_screenshot.png)
 ![Alt text](screenshot2.png)
